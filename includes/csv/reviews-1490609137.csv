@@ -1,0 +1,7 @@
+product_id,author,email,rating,title,body,created_at,reply,replied_at,product_image,product_url,published
+22,"James Koster",james@jameskoster.co.uk,,,"Nice T-shirt, I got one in black. Goes with anything!","2013-06-07 11:43:13",1,"2017-03-20 17:21:38",,http://localhost/pixi/?product=ship-your-idea,TRUE
+22,sandeep,sandeep@tact9.in,5,,"hello this is second reviews","2017-03-20 17:20:35",1,"2017-03-20 17:21:17",,http://localhost/pixi/?product=ship-your-idea,TRUE
+37,sandeep,sandeep@tact9.in,3,,"Happy Ninja","2017-03-20 17:23:40",,,,http://localhost/pixi/?product=happy-ninja,FALSE
+1906,sandeep,sandeep@tact9.in,5,,4444,"2017-03-08 13:47:07",,,http://localhost/pixi/wp-content/uploads/2016/08/4411961_001-150x150.jpg,http://localhost/pixi/?product=emmi-caffe-latte-big-cup-cappuccino,TRUE
+11496,sandeep,sandeep@tact9.in,5,,hgfhjgj,"2017-03-20 17:43:22",1,"2017-03-20 17:43:41",http://localhost/pixi/wp-content/uploads/2016/09/cremo_uht_25-1-150x150.jpg,http://localhost/pixi/?product=12l-milk-cremo-1-5-fett,TRUE
+83314,sandeep,sandeep@tact9.in,3,,grg,"2017-03-20 17:22:58",,,http://localhost/pixi/wp-content/uploads/2016/10/default-8604-150x150.jpg,http://localhost/pixi/?product=orange-et-pomme-2,TRUE
